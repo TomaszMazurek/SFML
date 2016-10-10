@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SFML" Database="">
+  <Project Name="Pong" Path="Pong/Pong.project" Active="No"/>
+  <Project Name="Arkanoid" Path="Arkanoid/Arkanoid.project" Active="No"/>
+  <Project Name="RiverRaid" Path="RiverRaid/RiverRaid.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Pong" ConfigName="Debug"/>
+      <Project Name="Arkanoid" ConfigName="Debug"/>
+      <Project Name="RiverRaid" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Project Name="Pong" ConfigName="Release"/>
+      <Project Name="Arkanoid" ConfigName="Release"/>
+      <Project Name="RiverRaid" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

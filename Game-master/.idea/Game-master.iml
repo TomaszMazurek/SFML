@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/InputNames.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/FadeAnimation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Action.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ParticleSystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/BigSprite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ToString.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ColorGradient.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Joystick.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Emitters.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Shapes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/UniformAccess.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Triangulation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/StopWatch.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ColorAnimation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Particle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/FrameAnimation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Timer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Arrow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ConcaveShape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Connection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Trigonometry.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Distributions.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Random.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/BigTexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/Affectors.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/ActionOperations.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/src/CallbackTimer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/Thor/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Mutex.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Err.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadLocalImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ClockImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/MutexImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/SleepImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/MutexImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadLocalImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ClockImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/SleepImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/ThreadLocal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/String.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Thread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Clock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Time.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Lock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Sleep.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundFile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundStream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundRecorder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundFile.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/ALCheck.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundBuffer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Music.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/ALCheck.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/AudioDevice.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/AudioDevice.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundBufferRecorder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Listener.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Sound.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundSource.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Texture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Color.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Shape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Transform.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/GLCheck.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Transformable.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplFBO.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/TextureSaver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Text.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/GLCheck.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Vertex.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderStates.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplDefault.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplFBO.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/TextureSaver.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Sprite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Font.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplDefault.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Shader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/CircleShape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RectangleShape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/VertexArray.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ImageLoader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTarget.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ConvexShape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/stb_image/stb_image_write.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/stb_image/stb_image.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ImageLoader.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderWindow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/View.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Image.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/VideoModeImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickManager.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Keyboard.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/InputImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Joystick.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Window.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlContext.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlResource.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/VideoMode.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/WindowImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlContext.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/GlxContext.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/JoystickImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/InputImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/InputImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/WindowImplX11.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/Display.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/VideoModeImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/JoystickImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/GlxContext.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/WindowImplX11.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/Display.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Mouse.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/WindowImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Context.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/SocketImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Socket.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/TcpListener.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Unix/SocketImpl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Unix/SocketImpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Ftp.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Packet.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/IpAddress.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Http.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/TcpSocket.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/UdpSocket.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/SocketSelector.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-all.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-window.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-graphics.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-system.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-audio.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/tools/pkg-config/sfml-network.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Export.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Music.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundBuffer.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Sound.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundBufferRecorder.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundSource.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Listener.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundRecorder.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundStream.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Utf.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/InputStream.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Time.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Utf.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector3.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector2.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Mutex.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/NonCopyable.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Thread.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector3.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector2.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocalPtr.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Thread.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/String.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Clock.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Export.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Lock.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocalPtr.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocal.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Sleep.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Err.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/WindowStyle.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Mouse.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Export.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/VideoMode.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Window.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Context.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Keyboard.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/WindowHandle.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Joystick.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Event.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/ContextSettings.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/GlResource.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Transform.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RectangleShape.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Font.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/VertexArray.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Rect.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Texture.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/CircleShape.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Vertex.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Glyph.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/View.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/BlendMode.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderTexture.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Sprite.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Color.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Shader.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/ConvexShape.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderWindow.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Shape.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Text.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Rect.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/PrimitiveType.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Export.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Transformable.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderTarget.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderStates.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Image.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Drawable.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/SocketHandle.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Export.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/SocketSelector.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Socket.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/TcpSocket.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/UdpSocket.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/IpAddress.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/TcpListener.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Ftp.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Packet.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Http.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/cmake/Modules/FindGLEW.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/cmake/Modules/FindSndfile.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/cmake/Config.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/SFML-2.1/cmake/Macros.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dep/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Logging/Log.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Logging/Log.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Menu/Menu.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Menu/Menu.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Input/Input.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Input/Input.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/ResourceManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/ResourceManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/Utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/SharedDefines.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/Utils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/MovingTile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/SpecialTile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/Shapes/HexagonShape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/Shapes/HexagonShape.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/Tile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/SpecialTile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/MovingTile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Tiles/Tile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Maps/Map.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/GameObject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Entity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/GameObject.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Unit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Unit.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Entity.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/macros/FindSFML.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.3.1/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/Release" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/Debug" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/RelWithDebInfo" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/MinSizeRel" />
+          <root url="file://$MODULE_DIR$/dep/Thor/extlibs/aurora/include" />
+          <root url="file://$MODULE_DIR$/dep/Thor/include" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include" />
+          <root url="file://$MODULE_DIR$/src/Logging" />
+          <root url="file://$MODULE_DIR$/src/Menu" />
+          <root url="file://$MODULE_DIR$/src/Input" />
+          <root url="file://$MODULE_DIR$/src/Common" />
+          <root url="file://$MODULE_DIR$/src/Maps" />
+          <root url="file://$MODULE_DIR$/src/Entities" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.3.1/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/Release" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/Debug" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/RelWithDebInfo" />
+          <root url="file://$USER_HOME$/.CLion12/system/cmake/generated/7aef654f/7aef654f/MinSizeRel" />
+          <root url="file://$MODULE_DIR$/dep/Thor/extlibs/aurora/include" />
+          <root url="file://$MODULE_DIR$/dep/Thor/include" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include" />
+          <root url="file://$MODULE_DIR$/src/Logging" />
+          <root url="file://$MODULE_DIR$/src/Menu" />
+          <root url="file://$MODULE_DIR$/src/Input" />
+          <root url="file://$MODULE_DIR$/src/Common" />
+          <root url="file://$MODULE_DIR$/src/Maps" />
+          <root url="file://$MODULE_DIR$/src/Entities" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Mutex.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Err.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadLocalImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ClockImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/MutexImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/SleepImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/MutexImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadLocalImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ClockImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/SleepImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Unix/ThreadImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/ThreadLocal.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/String.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Thread.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Clock.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Time.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Lock.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/System/Sleep.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundFile.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundStream.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundRecorder.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundFile.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/ALCheck.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundBuffer.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Music.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/ALCheck.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/AudioDevice.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/AudioDevice.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundBufferRecorder.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Listener.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/Sound.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Audio/SoundSource.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Texture.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Color.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Shape.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Transform.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/GLCheck.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Transformable.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTexture.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplFBO.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/TextureSaver.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Text.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/GLCheck.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Vertex.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderStates.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplDefault.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplFBO.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/TextureSaver.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Sprite.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Font.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImplDefault.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Shader.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTextureImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/CircleShape.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RectangleShape.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/VertexArray.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ImageLoader.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderTarget.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ConvexShape.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/stb_image/stb_image_write.h" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/stb_image/stb_image.h" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/ImageLoader.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/RenderWindow.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/View.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Graphics/Image.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickManager.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/VideoModeImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickManager.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Keyboard.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/JoystickImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/InputImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Joystick.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Window.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlContext.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlResource.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/VideoMode.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/WindowImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/GlContext.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/GlxContext.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/JoystickImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/InputImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/InputImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/WindowImplX11.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/Display.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/VideoModeImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/JoystickImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/GlxContext.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/WindowImplX11.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Linux/Display.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Mouse.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/WindowImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Window/Context.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/SocketImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Socket.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/TcpListener.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Unix/SocketImpl.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Unix/SocketImpl.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Ftp.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Packet.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/IpAddress.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/Http.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/TcpSocket.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/UdpSocket.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/src/SFML/Network/SocketSelector.cpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Export.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Music.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundBuffer.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Sound.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundBufferRecorder.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundSource.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/Listener.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundRecorder.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Audio/SoundStream.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Utf.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/InputStream.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Time.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Utf.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector3.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector2.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Mutex.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/NonCopyable.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Thread.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector3.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Vector2.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocalPtr.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Thread.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/String.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Clock.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Export.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Lock.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocalPtr.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/ThreadLocal.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Sleep.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/System/Err.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/WindowStyle.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Mouse.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Export.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/VideoMode.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Window.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Context.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Keyboard.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/WindowHandle.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Joystick.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/Event.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/ContextSettings.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Window/GlResource.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Transform.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RectangleShape.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Font.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/VertexArray.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Rect.inl" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Texture.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/CircleShape.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Vertex.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Glyph.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/View.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/BlendMode.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderTexture.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Sprite.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Color.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Shader.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/ConvexShape.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderWindow.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Shape.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Text.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Rect.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/PrimitiveType.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Export.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Transformable.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderTarget.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/RenderStates.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Image.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Graphics/Drawable.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/SocketHandle.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Export.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/SocketSelector.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Socket.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/TcpSocket.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/UdpSocket.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/IpAddress.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/TcpListener.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Ftp.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Packet.hpp" />
+          <root url="file://$MODULE_DIR$/dep/SFML-2.1/include/SFML/Network/Http.hpp" />
+          <root url="file://$MODULE_DIR$/src/Logging/Log.cpp" />
+          <root url="file://$MODULE_DIR$/src/Logging/Log.h" />
+          <root url="file://$MODULE_DIR$/src/Menu/Menu.h" />
+          <root url="file://$MODULE_DIR$/src/Menu/Menu.cpp" />
+          <root url="file://$MODULE_DIR$/src/Input/Input.cpp" />
+          <root url="file://$MODULE_DIR$/src/Input/Input.h" />
+          <root url="file://$MODULE_DIR$/src/Common/ResourceManager.h" />
+          <root url="file://$MODULE_DIR$/src/Common/ResourceManager.cpp" />
+          <root url="file://$MODULE_DIR$/src/Common/Utils.h" />
+          <root url="file://$MODULE_DIR$/src/Common/SharedDefines.h" />
+          <root url="file://$MODULE_DIR$/src/Common/Utils.cpp" />
+          <root url="file://$MODULE_DIR$/src/Maps/Map.h" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/MovingTile.cpp" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/SpecialTile.h" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/Shapes/HexagonShape.cpp" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/Shapes/HexagonShape.h" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/Tile.cpp" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/SpecialTile.cpp" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/MovingTile.h" />
+          <root url="file://$MODULE_DIR$/src/Maps/Tiles/Tile.h" />
+          <root url="file://$MODULE_DIR$/src/Maps/Map.cpp" />
+          <root url="file://$MODULE_DIR$/src/Entities/GameObject.h" />
+          <root url="file://$MODULE_DIR$/src/Entities/Entity.h" />
+          <root url="file://$MODULE_DIR$/src/Entities/GameObject.cpp" />
+          <root url="file://$MODULE_DIR$/src/Entities/Player.h" />
+          <root url="file://$MODULE_DIR$/src/Entities/Unit.h" />
+          <root url="file://$MODULE_DIR$/src/Entities/Unit.cpp" />
+          <root url="file://$MODULE_DIR$/src/Entities/Player.cpp" />
+          <root url="file://$MODULE_DIR$/src/Entities/Entity.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Ball.cpp.o ./Debug/Paddle.cpp.o ./Debug/Brick.cpp.o
